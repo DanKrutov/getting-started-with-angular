@@ -8,19 +8,19 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'Celular XL',
+    name: 'Phone XL',
     price: 799,
     description: 'Um grande celular com uma das melhores telas'
   },
   {
     id: 2,
-    name: 'Celular Mini',
+    name: 'Phone Mini',
     price: 699,
     description: 'Um ótimo celular com uma das melhores câmeras'
   },
   {
     id: 3,
-    name: 'Celular Standard',
+    name: 'Phone Standard',
     price: 299,
     description: ''
   }
